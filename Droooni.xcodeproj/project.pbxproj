@@ -21,6 +21,8 @@
 		678859DF22060A2600AFC239 /* dj2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 678859DE22060A2600AFC239 /* dj2.jpg */; };
 		678859E122060A5B00AFC239 /* dj3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 678859E022060A5B00AFC239 /* dj3.jpg */; };
 		678859E32206BCE200AFC239 /* dji4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 678859E22206BCE100AFC239 /* dji4.jpg */; };
+		EDFA8A21221BE9AC0045F899 /* SparkClassifier4.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = EDFA8A20221BE9AC0045F899 /* SparkClassifier4.mlmodel */; };
+		EDFA8A23221BEE900045F899 /* ji10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDFA8A22221BEE900045F899 /* ji10.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +42,8 @@
 		678859DE22060A2600AFC239 /* dj2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dj2.jpg; sourceTree = "<group>"; };
 		678859E022060A5B00AFC239 /* dj3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dj3.jpg; sourceTree = "<group>"; };
 		678859E22206BCE100AFC239 /* dji4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dji4.jpg; sourceTree = "<group>"; };
+		EDFA8A20221BE9AC0045F899 /* SparkClassifier4.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SparkClassifier4.mlmodel; sourceTree = "<group>"; };
+		EDFA8A22221BEE900045F899 /* ji10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ji10.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,8 +79,10 @@
 				6723E5622205AF1100765E20 /* AppDelegate.swift */,
 				678859DE22060A2600AFC239 /* dj2.jpg */,
 				678859E22206BCE100AFC239 /* dji4.jpg */,
+				EDFA8A22221BEE900045F899 /* ji10.jpg */,
 				6723F5C22207F8DC00484F5E /* dji9.jpg */,
 				6723F5BA2207631200484F5E /* dji8.jpg */,
+				EDFA8A20221BE9AC0045F899 /* SparkClassifier4.mlmodel */,
 				6723F5C022076B7500484F5E /* SparkClassifier.mlmodel */,
 				6723E5762205B2B900765E20 /* sparki.jpg */,
 				678859E022060A5B00AFC239 /* dj3.jpg */,
@@ -150,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				678859E122060A5B00AFC239 /* dj3.jpg in Resources */,
+				EDFA8A23221BEE900045F899 /* ji10.jpg in Resources */,
 				6723F5C32207F8DC00484F5E /* dji9.jpg in Resources */,
 				678859DF22060A2600AFC239 /* dj2.jpg in Resources */,
 				678859E32206BCE200AFC239 /* dji4.jpg in Resources */,
@@ -173,6 +180,7 @@
 				6723F5C122076B7500484F5E /* SparkClassifier.mlmodel in Sources */,
 				6723E57F2205CB1C00765E20 /* CameraViewController.swift in Sources */,
 				6723E5632205AF1100765E20 /* AppDelegate.swift in Sources */,
+				EDFA8A21221BE9AC0045F899 /* SparkClassifier4.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
